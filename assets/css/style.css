@@ -1,0 +1,27 @@
+body{
+	background-image: url(https://studybreaks.com/wp-content/uploads/2018/12/sb1.jpg);
+	text-align: center;
+}
+
+
+#swag {
+    color: tan;
+
+}
+.last-seconds{
+  color: red;
+}
+.option{
+  margin: 15px;
+}
+
+.btn {
+    background-color: blueviolet;
+    border-color: blueviolet;
+    
+}
+
+.btn:hover {
+    background-color: purple;
+    border-color: purple;
+}
